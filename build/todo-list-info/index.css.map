@@ -1,0 +1,1 @@
+{"version":3,"file":"todo-list-info/index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://todo-list-info/./src/todo-list-info/editor.scss"],"sourcesContent":[".wp-block-wpblocks-todo-list-info {\n\tborder: 1px dotted #f00;\n}\n"],"names":[],"ignoreList":[],"sourceRoot":""}

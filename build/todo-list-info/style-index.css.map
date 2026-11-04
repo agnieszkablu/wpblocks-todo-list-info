@@ -1,0 +1,1 @@
+{"version":3,"file":"todo-list-info/style-index.css","mappings":";;;AAAA;EACC;EACA;EACA;AACD,C","sources":["webpack://todo-list-info/./src/todo-list-info/style.scss"],"sourcesContent":[".wp-block-wpblocks-todo-list-info {\n\tbackground-color: #21759b;\n\tcolor: #fff;\n\tpadding: 2px;\n}\n"],"names":[],"ignoreList":[],"sourceRoot":""}

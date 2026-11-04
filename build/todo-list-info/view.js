@@ -1,3 +1,7 @@
+/******/ (() => { // webpackBootstrap
+/*!************************************!*\
+  !*** ./src/todo-list-info/view.js ***!
+  \************************************/
 /**
  * Use this file for JavaScript code that you want to run in the front-end
  * on posts/pages that contain this block.
@@ -21,5 +25,8 @@
  */
 
 /* eslint-disable no-console */
-console.log('Hello World! (from create-block-boilerplate block)');
+console.log('Hello World! (from wpblocks-todo-list-info block)');
 /* eslint-enable no-console */
+/******/ })()
+;
+//# sourceMappingURL=view.js.map
